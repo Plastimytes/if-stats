@@ -9,6 +9,7 @@ else:
     print("Failed")    
 
 ##3 type of weather
+
 #ask user to give a temperature
 temp=float(input("Enter the temperature in degrees Celsius in Entebbe: "))
 #print hot for above 30
@@ -23,6 +24,7 @@ elif temp<20:
 
 
 ##4 eligibility to vote
+
 #ask user if they are citizen
 print("Welcome to the voters section!!Unless asking for age answer Yes or No. Answer Truthfully")
 citizen=input("Are you a citizen of this country? ")
