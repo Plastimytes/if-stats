@@ -7,6 +7,7 @@ if result>=50:
 else:
     print("Failed")    
 
+
 ##3 type of weather
 #ask user to give a temperature
 temp=float(input("Enter the temperature in degrees Celsius in Entebbe: "))
