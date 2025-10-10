@@ -1,11 +1,13 @@
 ##2 exam score
 #ASk user for exam score
 result=float(input("enter the exam score: "))
+
 #check if score is above or equal to 50
 if result>=50:
     print("Passed")
 else:
-    print("Failed")    
+    print("Failed") 
+   
 ##3 type of weather##
 #ask user to give a temperature
 temp=float(input("Enter the temperature in degrees Celsius in Entebbe: "))
