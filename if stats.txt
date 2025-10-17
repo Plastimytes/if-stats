@@ -9,7 +9,6 @@ else:
     print("Failed") 
    
 ##3 type of weather##
-
 #ask user to give a temperature
 temp=float(input("Enter the temperature in degrees Celsius in Entebbe: "))
 #print hot for above 30
